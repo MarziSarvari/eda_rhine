@@ -5,4 +5,4 @@ library(data.table)
 
 multiply = function(first_number, second_number)
 {first_number * second_number}
-results <- multiply(Temperatures,WEIGHTS)
+results <- multiply(tempratures, weights)
